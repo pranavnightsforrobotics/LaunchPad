@@ -8,3 +8,5 @@ I couldn't figure out how to upload the app code but below is a link to a google
 Here's the app's flow!
 ![app flow](/flow.png)
 
+Here's the fun.py model detecting some paper!
+![trash model](/paper.png)
